@@ -1,4 +1,7 @@
-<products><product><id>НФ-00000957</id>
+<?xml version="1.0" encoding="WINDOWS-1251"?>
+<products>
+		<product>
+		<id>НФ-00000957</id>
 		<sku>1142730-BLK</sku>
 		<name>M GOLDENCOAST STRAP SLIDE</name>
 		<barcode>196565276414</barcode>
