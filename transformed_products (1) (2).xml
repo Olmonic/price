@@ -1,5 +1,5 @@
-
-                <products>
+        <?xml version='1.1' encoding='UTF-8' ?>
+		<products>
 		<product>
 		<id>НФ-00000957</id>
 		<sku>1142730-BLK</sku>
